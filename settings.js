@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Iyanzz'// yourname
-global.MONGO_DB_URI = "mongodb+srv://sportsowijaya:IyanJaya@viandb.lbn5ks5.mongodb.net/?retryWrites=true&w=majority&appName=VianDb" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://sportsowijaya:IyanJaya@viandb.lbn5ks5.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "visualapicompany@gmail.com" //email
 global.email_password = "vypnybpmrssctkjq" //application password email
