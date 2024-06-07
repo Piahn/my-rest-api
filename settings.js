@@ -4,7 +4,7 @@ global.creator = 'Zeeoneofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://sportsowijaya:IyanJaya@viandb.lbn5ks5.mongodb.net/?retryWrites=true&w=majority&appName=VianDb" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "visualapicompany@gmail.com" //email
-global.email_password = "vypn ybpm rssc tkjq" //application password email
+global.email_password = "vypnybpmrssctkjq" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
